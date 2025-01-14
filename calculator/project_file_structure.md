@@ -1,4 +1,5 @@
 # Project folder structure
+```go
 calculator/
 ├── go.mod
 ├── go.sum
@@ -12,10 +13,10 @@ calculator/
 │       └── config.go
 ├── README.md
 └── .gitignore
-
+```
 
 # Folder explanation
-
+```go
 calculator/
 ├── go.mod            # Module definition
 ├── go.sum            # Dependency checksums (auto-generated)
@@ -29,3 +30,4 @@ calculator/
 │       └── config.go
 ├── README.md         # Project documentation
 └── .gitignore        # Git ignore rules 
+```
